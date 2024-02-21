@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+    background-color: aquamarine;
+}
+
+#timer {
+    font-family:'Roboto Mono',monospace;
+    color: crimson;
+}
+
+#timerShort {
+    font-family:'Roboto Mono',monospace;
+    color: skyblue;
+}
+
+#timerLong {
+    font-family:'Roboto Mono',monospace;
+    color: yellow;
+}
